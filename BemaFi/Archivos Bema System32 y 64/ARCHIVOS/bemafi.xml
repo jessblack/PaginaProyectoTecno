@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<bematech>
+    <Sistema>
+        <Porta>USB</Porta>
+        <BaudRate>9600</BaudRate>
+        <Path>C:\</Path>
+        <Status>0</Status>
+        <Retorno>0</Retorno>
+        <StatusFuncao>0</StatusFuncao>
+        <ControlePorta>1</ControlePorta>
+        <ConfigRede>0</ConfigRede>
+        <NivelLog>0</NivelLog>
+        <ModoGaveta>0</ModoGaveta>
+        <CrLfVinculado>0</CrLfVinculado>
+        <CrLfGerencial>0</CrLfGerencial>
+        <TimeOutReducaoZ>99</TimeOutReducaoZ>
+        <TimeOutGerencialExtendido>40</TimeOutGerencialExtendido>
+        <Tentativas>999</Tentativas>
+        <WakMilisegundos>100</WakMilisegundos>
+        <TimeoutSegundos>180</TimeoutSegundos>
+        <VersaoAtoCotepe>1</VersaoAtoCotepe>
+        <CleanValidation>0</CleanValidation>
+        <TimeoutEscritaPorta>100</TimeoutEscritaPorta>
+        <TimeoutLeituraPorta>10000</TimeoutLeituraPorta>
+    </Sistema>
+    <Fiscal>
+        <ProtocoloUnico>1</ProtocoloUnico>
+        <CAT52>0</CAT52>
+        <CupomMania>0</CupomMania>
+        <MinasLegal>0</MinasLegal>
+        <NotaFiscalParanaense>0</NotaFiscalParanaense>
+        <NotaLegal>0</NotaLegal>
+        <ParaibaLegal>0</ParaibaLegal>
+        <CupomAdicional>0</CupomAdicional>
+    </Fiscal>
+    <MFD>
+        <Impressora>1</Impressora>
+        <EmulMFD>0</EmulMFD>
+    </MFD>
+    <Aliquotas>
+        <Aliquota01 Valor="1700" Tipo="T"/>
+        <Aliquota02 Valor="1800" Tipo="T"/>
+        <Aliquota03 Valor="2200" Tipo="T"/>
+        <Aliquota04 Valor="0500" Tipo="S"/>
+        <Aliquota05 Valor="1200" Tipo="T"/>
+        <Aliquota06 Valor="" Tipo=""/>
+        <Aliquota07 Valor="" Tipo=""/>
+        <Aliquota08 Valor="" Tipo=""/>
+        <Aliquota09 Valor="" Tipo=""/>
+        <Aliquota10 Valor="" Tipo=""/>
+        <Aliquota11 Valor="" Tipo=""/>
+        <Aliquota12 Valor="" Tipo=""/>
+        <Aliquota13 Valor="" Tipo=""/>
+        <Aliquota14 Valor="" Tipo=""/>
+        <Aliquota15 Valor="" Tipo=""/>
+        <Aliquota16 Valor="" Tipo=""/>
+    </Aliquotas>
+    <SoftwareHouse>
+        <COO/>
+        <NumeroAplicativo/>
+        <CNPJ/>
+        <IE/>
+        <IM/>
+        <RazaoSocial/>
+        <NomeAplicativo/>
+        <Versao/>
+        <Linha1/>
+        <Linha2/>
+        <IM_ECF/>
+        <UF/>
+    </SoftwareHouse>
+    <ChequeOpcional>
+        <Cidade/>
+        <Favorecido/>
+    </ChequeOpcional>
+</bematech>

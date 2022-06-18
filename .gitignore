@@ -1,0 +1,12 @@
+bin
+BD
+Data
+wwwroot
+Startup.cs
+Views
+Controllers
+Models
+ProyectoMVC.csproj
+appsettings.json
+appsettings.Development.json
+Program.cs

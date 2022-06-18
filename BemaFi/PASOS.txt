@@ -1,0 +1,13 @@
+usar cable serial
+1. BematechVirtualSerialPort_x64_v3.0.0.3 INSTALAR
+ 
+2. Archivos Bema System32 y 64  / COPIAR C:\Windows\System32 y C:\Windows\SysWOW64
+3. ADMINISTRADOR DE DISPOSITIVOS
+MODIFICO EL INI BEMA32 Y BEMA.INI MODIFICA EL PUERTO A COM3 
+
+
+
+ 5. Software_do_usuário_v2.5.1_x64 (1) .....para usar cable usb, cuando son muhos item da problemas
+
+---------------------no recomienda ---------- Software_do_usuário_v2.5.1_x64 (1) ..........
+ESO CUANDO SE USA USB
